@@ -5,6 +5,9 @@ Employees can book designated or floater seats based on their batch and squad, w
 
 ---
 
+Video Demo 
+Linke: https://drive.google.com/file/d/1Ufr33OuYeVKDz82T_bps8D3ig6U6BO_S/view?usp=sharing
+
 ## ✨ Features
 
 - **Authentication** – JWT stored in HTTP‑only cookies, protected routes, role‑based access (employee / admin).
