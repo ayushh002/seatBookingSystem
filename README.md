@@ -6,7 +6,7 @@ Employees can book designated or floater seats based on their batch and squad, w
 ---
 
 Video Demo 
-Linke: https://drive.google.com/file/d/1Ufr33OuYeVKDz82T_bps8D3ig6U6BO_S/view?usp=sharing
+Link: https://drive.google.com/file/d/1Ufr33OuYeVKDz82T_bps8D3ig6U6BO_S/view?usp=sharing
 
 ## ✨ Features
 
@@ -38,13 +38,7 @@ Linke: https://drive.google.com/file/d/1Ufr33OuYeVKDz82T_bps8D3ig6U6BO_S/view?us
 - [Node.js](https://nodejs.org/) (v18 or later)
 - [MongoDB](https://www.mongodb.com/) (local or Atlas)
 - [Redis](https://redis.io/) (local or cloud)
-- npm or yarn
 
 ---
 
-## 🚀 Installation
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/seat-booking-system.git
-cd seat-booking-system
